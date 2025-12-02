@@ -4,7 +4,7 @@
   "type": "module",
   "description": "iOwOi - Connecting Brands with the US Market",
   "private": true,
-  "homepage": "https://jinyili.github.io/iowoi-web",
+  "homepage": "https://Pop-Up-Limited.github.io/iowoi-web",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
